@@ -1,0 +1,27 @@
+{
+  "name": "ipfs-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinsam16/ipfs-connect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinsam16/ipfs-connect/issues"
+  },
+  "homepage": "https://github.com/martinsam16/ipfs-connect#readme",
+  "dependencies": {
+    "ipfs-http-client": "^59.0.0"
+  },
+  "devDependencies": {
+    "@types/nodemon": "^1.19.2",
+    "nodemon": "^2.0.20"
+  }
+}
